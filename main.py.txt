@@ -1,0 +1,8 @@
+def main():
+    print("Projeto de Gerenciamento de Configuração")
+    print("Versão atualizada do sistema.")
+    print("Alteração registrada na atividade prática.")
+
+
+if __name__ == "__main__":
+    main()
